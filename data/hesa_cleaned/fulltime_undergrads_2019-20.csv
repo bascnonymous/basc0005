@@ -1,0 +1,263 @@
+Country of domicile,Number
+Åland Islands,0
+Austria,50
+Belgium,80
+Bulgaria,95
+Canary Islands,0
+Croatia,10
+Cyprus (European Union),145
+Cyprus not otherwise specified,0
+Czech Republic,75
+Denmark,30
+Estonia,5
+European Union not otherwise specified,0
+Finland,25
+France,630
+French Guiana,0
+Germany,235
+Gibraltar,5
+Greece,95
+Guadeloupe,0
+Hungary,150
+Ireland,15
+Italy,270
+Latvia,10
+Lithuania,65
+Luxembourg,25
+Malta,0
+Martinique,0
+Mayotte,0
+Netherlands,60
+Poland,190
+Portugal,45
+Réunion,0
+Romania,260
+Slovakia,65
+Slovenia,15
+Spain,275
+Sweden,45
+Total Other EU,2975
+Albania,5
+Andorra,0
+Armenia,5
+Azerbaijan,10
+Belarus,5
+Bosnia and Herzegovina,0
+Cyprus (Non-European Union),0
+Europe not otherwise specified,0
+Faroe Islands,0
+Georgia,5
+Iceland,0
+Kosovo,0
+Liechtenstein,0
+Moldova,0
+Monaco,5
+Montenegro,5
+North Macedonia,5
+Norway,30
+Russia,150
+San Marino,0
+Serbia,5
+Svalbard and Jan Mayen,0
+Switzerland,145
+Total Other Europe,515
+Turkey,115
+Ukraine,20
+Vatican City,0
+Africa not otherwise specified,0
+Algeria,5
+Angola,0
+Benin,0
+Botswana,15
+Burkina Faso,0
+Burundi,0
+Cameroon,0
+Cape Verde,0
+Central African Republic,0
+Chad,0
+Comoros,0
+Congo,0
+Congo (Democratic Republic) {formerly Zaire},0
+Djibouti,0
+Egypt,30
+Equatorial Guinea,0
+Eritrea,0
+Ethiopia,0
+Gabon,0
+"Gambia, The",0
+Ghana,5
+Guinea,0
+Guinea-Bissau,0
+Ivory Coast,0
+Kenya,20
+Kingdom of eSwatini,0
+Lesotho,0
+Liberia,0
+Libya,0
+Madagascar,0
+Malawi,0
+Mali,0
+Mauritania,0
+Mauritius,20
+Morocco,35
+Mozambique,5
+Namibia,0
+Niger,0
+Nigeria,30
+Rwanda,0
+Sao Tome And Principe,0
+Senegal,0
+Seychelles,0
+Sierra Leone,0
+Somalia,0
+South Africa,10
+South Sudan,0
+"St Helena, Ascension and Tristan da Cunha",0
+Sudan,0
+Swaziland,0
+Tanzania,0
+Togo,0
+Total Africa,195
+Tunisia,10
+Uganda,5
+Western Sahara,0
+Zambia,0
+Zimbabwe,0
+Afghanistan,0
+Asia (Except Middle East) not otherwise specified,0
+Bangladesh,15
+Bhutan,0
+Brunei,10
+Cambodia,0
+China,2685
+East Timor,0
+Hong Kong (Special Administrative Region of China),760
+India,145
+Indonesia,55
+Japan,70
+Kazakhstan,20
+Korea (North),0
+Korea (South),220
+Kyrgyzstan,0
+Laos,0
+Macao (Special Administrative Region of China),45
+Malaysia,490
+Maldives,0
+Mongolia,5
+Myanmar (Burma),10
+Nepal,0
+Pakistan,60
+Philippines,15
+Singapore,540
+Sri Lanka,15
+Taiwan,45
+Tajikistan,0
+Thailand,120
+Total Asia,5375
+Turkmenistan,0
+Uzbekistan,5
+Vietnam,35
+American Samoa,0
+Antarctica and Oceania not otherwise specified,0
+Australia,30
+Christmas Island,0
+Cook Islands,0
+Fiji,0
+French Polynesia,0
+Guam,0
+Kiribati,0
+Marshall Islands,0
+Micronesia,0
+Nauru,0
+New Caledonia,0
+New Zealand,20
+Niue,0
+Norfolk Island,0
+Northern Mariana Islands,0
+Palau,0
+Papua New Guinea,0
+"Pitcairn, Henderson, Ducie And Oeno Islands",0
+Samoa,0
+Solomon Islands,0
+South Georgia and The South Sandwich Islands,0
+Tokelau,0
+Tonga,0
+Total Australasia,55
+Tuvalu,0
+Vanuatu,0
+Wallis and Futuna,0
+Bahrain,10
+Iran,30
+Iraq,0
+Israel,10
+Jordan,15
+Kuwait,10
+Lebanon,40
+Middle East not otherwise specified,0
+Occupied Palestinian Territories {formerly West Bank (including East Jerusalem) and Gaza Strip},0
+Oman,0
+Qatar,5
+Saudi Arabia,25
+Syria,0
+Total Middle East,225
+United Arab Emirates,75
+Yemen,0
+Anguilla,0
+Antigua and Barbuda,0
+Aruba,0
+"Bahamas, The",0
+Barbados,0
+Belize,0
+Bermuda,5
+"Bonaire, Sint Eustatius and Saba",0
+British Virgin Islands,0
+Canada,95
+Caribbean not otherwise specified,0
+Cayman Islands,0
+Central America not otherwise specified,0
+Costa Rica,0
+Cuba,0
+Curaçao,0
+Dominica,0
+Dominican Republic,0
+El Salvador,0
+Greenland,0
+Grenada,0
+Guatemala,0
+Haiti,0
+Honduras,0
+Jamaica,0
+Mexico,10
+Montserrat,0
+Nicaragua,0
+North America not otherwise specified,0
+Panama,0
+Puerto Rico,0
+Sint Maarten (Dutch part),0
+St Barthélemy,0
+St Kitts and Nevis,0
+St Lucia,0
+St Martin (French Part),0
+St Pierre And Miquelon,0
+St Vincent and The Grenadines,0
+Total North America,310
+Trinidad and Tobago,20
+Turks and Caicos Islands,0
+United States,175
+United States Virgin Islands,0
+Argentina,5
+Bolivia,0
+Brazil,15
+Chile,0
+Colombia,5
+Ecuador,5
+Falkland Islands,0
+Guyana,0
+Paraguay,0
+Peru,5
+South America not otherwise specified,0
+Suriname,0
+Total South America,35
+Uruguay,0
+Venezuela,0
+Total,9680
