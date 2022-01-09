@@ -18,4 +18,4 @@ World Bank (2021e). Population, total. [online] Available at: <https://data.worl
 
 
 
-Unfortunately, the data on student population exceeds the upload size for GitHub, and such the reader is referred to the HESA website. 
+Unfortunately, the data on student population exceeds the upload size for GitHub, and such the reader is referred to the HESA website. For the code to work, these must be uploaded into the /data/hesa_unedited folder.
